@@ -5,4 +5,5 @@
 - Working with Data Migration Tools (Database Backup, Data Update, Schedule Backup, Data Compare, Find Data with Advance Features, etc.).
 - Database Connection with MySQL, MySQLi, PDO, ADO.Net, etc.
 - Make Complex Query and View for Customized Reports (SAP Crystal Report and HTML Reports).
+- Working with Joining, Subquery, Select Clause Query, Date Function, Concat or String Related Functions in Database.
 - Also, Understand Basic Knowledge - of DDL, DML, TCL, Primary Key, Foreign Key, Joining, Indexing, ACID Properties, etc.
