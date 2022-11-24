@@ -2,7 +2,7 @@
 
 - Working with MS SQL Server, MySQL, and MS Access 2003 Database.
 - Expertise with Database View, Function, Store Procedure, Trigger, Strong SQL Queries, and Transactional Securities.
-- Working with Data Migration Tools (Database Backup, Data Update, Schedule Backup, Data Compare, Find Data with Advance Features, etc.).
+- Working with Data Migration Tools (Database Backup, Data Update with Two Tables, Schedule Backup, Data Compare, Find Data with Advance Features, etc.).
 - Database Connection with MySQL, MySQLi, PDO, ADO.Net, etc.
 - Make Complex Query and View for Customized Reports (SAP Crystal Report, MS Access - Reports and HTML Reports).
 - Working with Joining, Subquery, Select Clause Query, Date Function, Concat or String Related Functions in Database.
