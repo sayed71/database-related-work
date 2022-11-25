@@ -6,4 +6,4 @@
 - Database Connection with MySQL, MySQLi, PDO, ADO.Net, etc.
 - Make Complex Query and View for Customized Reports (SAP Crystal Report, MS Access - Reports and HTML Reports).
 - Working with Joining, Subquery, Select Clause Query, Date Function, Concat or String Related Functions in Database.
-- Also, Understand Basic Knowledge - of DDL, DML, TCL, Primary Key, Foreign Key, Joining, Indexing, ACID Properties, etc.
+- Also, Understand Basic Knowledge - of DDL, DML, TCL, Primary Key, Foreign Key, Joining (Inner, Left and Right), Indexing, ACID Properties, etc.
